@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: white 
+}
+
+#navbar{
+    height: 40px;
+    background-color: #0f1111;
+}
+#logo{
+    font-size: 25px;
+    color: #f08804;
+ }
+input{
+    color: black;
+}
+button{
+    background-color: #f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+.ContentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 678px;
+}
+#box1{
+    background-color: rgba(255,0,0,0.5);
+}
+#box2{
+    background-color: rgba(0,255,0,0.5);
+}
+#box3{
+    background-color: rgba(0,0,255,0.5);
+}
+footer{
+    background-color: #0f1111;
+    text-align: center;
+
+
+}
+

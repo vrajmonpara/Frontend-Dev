@@ -1,0 +1,12 @@
+Div{
+    height: 200px;
+    width: 200px;
+    background-image: url("room.jpg");
+    background-size: cover;
+    color: azure;
+    position: fixed;
+    right: 0px;
+    top: 20px;
+}
+
+
