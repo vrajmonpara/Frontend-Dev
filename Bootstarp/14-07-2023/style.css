@@ -1,11 +1,1 @@
-.box {
-    height: 100px;
-    width: 100px;
-    background-color: aquamarine;
-}
 
-.simplebox {
-    display: flex;
-    background-color: rgb(25, 128, 94);
-    justify-content: space-evenly;
-}
